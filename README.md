@@ -1,8 +1,8 @@
-UITextView+Placeholder
+UITextView_Placeholder
 ======================
 
-[![Build Status](https://travis-ci.org/devxoul/UITextView-Placeholder.svg?branch=master)](https://travis-ci.org/devxoul/UITextView-Placeholder)
-[![CocoaPods](http://img.shields.io/cocoapods/v/UITextView+Placeholder.svg?style=flat)](http://cocoapods.org/?q=name%3AUITextView%2BPlaceholder)
+[![Build Status](https://travis-ci.com/quan1910/UITextView-Placeholder.svg?branch=master)](https://travis-ci.com/quan1910/UITextView-Placeholder)
+[![CocoaPods](https://img.shields.io/cocoapods/v/UITextView_Placeholder)]
 
 A missing placeholder for UITextView.
 
@@ -13,7 +13,7 @@ Installation
 Use [CocoaPods](http://cocoapods.org).
 
 ```ruby
-pod 'UITextView+Placeholder'
+pod 'UITextView_Placeholder'
 ```
 
 
