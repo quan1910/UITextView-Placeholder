@@ -2,7 +2,7 @@ UITextView_Placeholder
 ======================
 
 [![Build Status](https://travis-ci.com/quan1910/UITextView-Placeholder.svg?branch=master)](https://travis-ci.com/quan1910/UITextView-Placeholder)
-[![CocoaPods](https://img.shields.io/cocoapods/v/UITextView_Placeholder)]
+[![CocoaPods](https://img.shields.io/cocoapods/v/UITextView_Placeholder)](https://cocoapods.org/pods/UITextView_Placeholder)
 
 A missing placeholder for UITextView.
 
